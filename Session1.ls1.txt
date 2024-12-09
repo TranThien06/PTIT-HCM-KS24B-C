@@ -1,0 +1,14 @@
+Session1.ls1
+// Xây dựng và thể hiện giải thuật bằng flowchart giải quyết bài toán: Nhập vào 2 số và tìm số nhỏ hơn trong 2 số nhập vào.
+
+Bước 1: Bắt đầu chương trình
+
+Bước 2: Khai báo 2 biến num1 và num2
+        
+Bươc 3: Nhập giá trị cho 2 số và lưu vào biến tương ứng biến num1 và num2
+
+Bước 4: So sánh 2 biến num1 và num2
+
+Bước 5: In ra kết quả vừa so sánh
+
+Bước 6: Kết thúc chương trình

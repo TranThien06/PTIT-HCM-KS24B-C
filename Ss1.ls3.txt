@@ -1,0 +1,15 @@
+Ss1.ls3
+///Xây dựng và thể hiện giải thuật bằng flowchart giải quyết bài toán tính tổng của 2 số nhập vào.
+
+Bước 1: Bắt đầu chương trình
+
+Bước 2: Khai báo 2 biến num1 và num2
+      //Khai báo biến total;
+Bước 3: Nhấp giá trị cho num1 và num2 và gán vào biến tương ứng num1 và num2
+
+Bước 4: Cộng 2 giá trị 2 biến num1 và num2, gán kết quả vào biến total
+
+Bước 5: In giá trị của biến total ra màn hình
+
+Bước 6: Kết thúc chương trình
+

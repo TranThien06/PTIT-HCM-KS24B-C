@@ -1,0 +1,17 @@
+Ss1.ls6
+///Xây dựng và thể hiện giải thuật bằng flowchart giải quyết bài toán giải phương trình bậc nhất .
+
+Bước 1: Bắt đầu chương trình
+
+Bước 2: Khai báo 2 biến a và b
+ 
+Bước 3: Nhập vào 2 hệ số s và b của phương trình ax+b=0
+
+Bước 4: Kiểm tra 
+      // Nếu a=0 thì kiểm tra tiếp b=0
+                                 // Nếu b=0 phương trình vô số nghiệm
+                                 // Nếu b khác 0 phương trình vô nghiệm
+     // Nếu a khác 0 thì tính nghiệm x=-b/a
+Bước 5: In ra màn hình 
+
+Bước 6: Kết thúc chương trình

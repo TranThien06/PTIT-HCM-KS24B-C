@@ -1,0 +1,14 @@
+Ss1.ls4
+///Xây dựng và thể hiện giải thuật bằng flowchart giải quyết bài toán kiểm tra xếp loại dựa trên điểm số nhập vào, nếu điểm lớn hơn 5 thì xếp loại đạt, nếu điểm nhỏ hơn 5 thì xếp loại không đạt.
+
+Bước 1: Bắt đầu chương trình 
+
+Bước 2: Khai báo biến num1, num2, num3
+
+Bước 3: Nhập giá trị cho num1, num2, num3 và gán vào biến tương ứng num1, num2, num3
+
+Bước 4: Kiểm tra các biến num1, num2, num3
+      // Nếu biến đó >5 thì in ra màn hình Đạt
+      // Nếu biến đó <5 thì in ra màn hình Không Đạt
+Bước 5: Kết thúc chương trình
+ 

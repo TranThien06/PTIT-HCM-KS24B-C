@@ -1,0 +1,16 @@
+Ss1.ls5
+///Nâng cấp từ bài 4
+
+Bước 1: Bắt đầu chương trình 
+
+Bước 2: Khai báo biến num1, num2, num3
+
+Bước 3: Nhập giá trị cho num1, num2, num3 và gán vào biến tương ứng num1, num2, num3
+
+Bước 4: Kiểm tra các biến num1, num2, num3
+      // Nếu biến đó <4 thì in ra màn hình là Không Đạt
+      // Nếu 4<=biến <=6 thì in ra màn hình là trugn bình
+      // Nếu 6<biến<=8 thì in ra màn hình là Khá
+      // Nếu 8<Biến<=9 thì in ra màn hình là giỏi
+      // Nếu 9<biến<=10 thì in ra màn hình là Xuất Sắc
+Bước 5: Kết thúc chương trình
